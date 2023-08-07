@@ -1,0 +1,15 @@
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\bin\Debug\net6.0\Tasks.exe
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\bin\Debug\net6.0\Tasks.deps.json
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\bin\Debug\net6.0\Tasks.dll
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\bin\Debug\net6.0\Tasks.pdb
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.dll
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.pdb
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+D:\Kallisto\codewars\CSharp\kyu7\Tasks\obj\Debug\net6.0\ref\Tasks.dll
